@@ -1,0 +1,19 @@
+{
+  "coordinates": [
+    {
+      "name": "Sundance Square",
+      "latitude": 32.753970,
+      "longitude": -97.332490
+    },
+    {
+      "name": "Watergardens",
+      "latitude": 32.758490,
+      "longitude": -97.332860
+    },
+    {
+      "name": "Fort Worth Convention Center",
+      "latitude": 32.749950,
+      "longitude": -97.328080
+    }
+  ]
+}
