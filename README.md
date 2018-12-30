@@ -490,4 +490,8 @@ fs.readFile('coordinates.json', function (err, data) {
   In this section we learned how to use functions with callbacks. We also learned how to read the contents of a file.<br/><br/>
   
 ### I. Summary<br/>
-  In this tutorial we went over a basic introduction to using Node.js for backend development. We learned that backend development is the process of developing software that runs on a server, rather than on an internet browser. We went through the processes of installing Visual Studio Code (an IDE) and installing Node.js. We learned how to start a Node.js project. We learned a little bit about variables, operations, and objects. In the tutorial we introduced installing Node modules, calling functions, creating functions, and the syntax of JSON. Finally, we learned how to read the contents of a file and use a function with a callback. I hope that you enjoyed learning about Node.js.<br/><br/><br/>
+  In this tutorial we went over a basic introduction to using Node.js for backend development. We learned that backend development is the process of developing software that runs on a server, rather than on an internet browser. We went through the processes of installing Visual Studio Code (an IDE) and installing Node.js. We learned how to start a Node.js project. We learned a little bit about variables, operations, and objects. In the tutorial we introduced installing Node modules, calling functions, creating functions, and the syntax of JSON. Finally, we learned how to read the contents of a file and use a function with a callback. I hope that you enjoyed learning about Node.js.
+<br/><br/><br/>
+For more tutorials like this, visit: https://www.mattnutsch.com/#tutorials
+<br/><br/>
+Copyright &copy; 2018-2019 Matt Nutsch 
